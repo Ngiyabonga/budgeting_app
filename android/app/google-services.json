@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546266118962",
+    "firebase_url": "https://budgetingapp-b1645.firebaseio.com",
+    "project_id": "budgetingapp-b1645",
+    "storage_bucket": "budgetingapp-b1645.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546266118962:android:d80387738ec8a95d6af52b",
+        "android_client_info": {
+          "package_name": "budgetingapp.budgeting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546266118962-82mepuvs9anu3vig95kkdlekan6fnli6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "budgetingapp.budgeting_app",
+            "certificate_hash": "cf1ff90d5a2859194f8af9c56dc9ddfdf62486f3"
+          }
+        },
+        {
+          "client_id": "546266118962-vfai2idjibmivvo7gtfdkobnkqcv91la.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUbahN3dM5Vc_z5uOekAHp2s-39evEHs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546266118962-vfai2idjibmivvo7gtfdkobnkqcv91la.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
