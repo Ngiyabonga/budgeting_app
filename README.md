@@ -1,17 +1,21 @@
 # budgeting_app
+##Category
+Finance  /  Planning
 
-A new Flutter application.
+##Title
+Budgeting Application
 
-## Getting Started
+##Background
 
-This project is a starting point for a Flutter application.
+Personal finance mobile app is a handy, easy, and effective way to improve your budgeting skills at the flick of a fingertip, and without an Excel spreadsheet or yellow legal pad insight. Over the time people have been living beyond their means by overspending unnecessarily which may result in debts as their monthly income might run short.   The use of mobile devices in finance (mobile financial planning) coupled with related technologies promises to improve financial decisions of individuals. 
 
-A few resources to get you started if this is your first Flutter project:
+##Description 
+This application provides users with financial planning and budgeting. The app does what good budget apps do - balancing your income and expenses and giving you a glimpse of where your money goes and why. The app offers extra services like letting you know when a bill is due and when you've reached a financial goal.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+##Project Team
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# budgeting_app
+-	Dorothy Olorato Ghanie /Role (Analyst)+ GitHub ID
+-	Aubrey Basimanebotlhe/ Role (Programmer)+ GitHub ID
+-	Jacob Dimbo/Role (/Programmer)+ GitHub ID
+-	Kealeboga Gakenne /Role (Designer)+ GitHub ID
+
